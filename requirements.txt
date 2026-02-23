@@ -1,0 +1,4 @@
+telethon==1.28.0
+pillow==10.0.1        # нужен для Inline кнопок в Telethon
+aiohttp==3.9.3        # асинхронные запросы, нужны Telethon
+asyncio               # встроенный модуль Python
